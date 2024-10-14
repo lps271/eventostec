@@ -30,7 +30,7 @@ public class EventService {
 		return newEvent;
 	}
 	
-	private String uploadImg(MultipartFile multiparFile) {
+	private String uploadImg(MultipartFile multipartFile) {
 		return "";
 	}
 }
